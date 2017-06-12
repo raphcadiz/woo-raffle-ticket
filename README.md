@@ -9,9 +9,9 @@ WooCommerce Raffle Product is a WordPress plugin that allows you to set a produc
 After raffle draw and automated email will be sent to both Admin and winner
 
 <h4>Raffle Settings</h4>
-![Alt text](screenshot-1.png?raw=true "settings")
+![Alt text](screenshot1.png?raw=true "settings")
 
 <br />
 
 <h4>Woocommerce order with raffle ticket codes.</h4>
-![Alt text](screenshot-2.png?raw=true "order")
+![Alt text](screenshot2.png?raw=true "order")
