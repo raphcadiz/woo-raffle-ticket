@@ -5,7 +5,7 @@
  * Description: Generate Raffle tickets and Lottery
  * Version:     1.0
  * Author:      raphcadiz
- * Author URI:  http://upspi.re/
+ * Author URI:  https://github.com/raphcadiz/
  * Text Domain: raffle-ticket
  */
 
