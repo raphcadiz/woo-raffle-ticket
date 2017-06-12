@@ -1,0 +1,23 @@
+.single-product .shop-item-detail .barchart__description {
+	text-align: left;
+}
+
+#countdown {
+    margin-bottom: 16px;
+}
+
+#countdown strong {
+	margin-bottom: 10px;
+}
+
+.countdown-section {
+	margin-right: 10px;
+}
+
+.countdown-number {
+	color: #425cbb;
+}
+
+.countdown-label {
+	font-weight: 700;
+}
