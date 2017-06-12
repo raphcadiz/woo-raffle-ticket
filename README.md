@@ -1,5 +1,5 @@
 # WooCommerce Raffle Product
-WooCommerce Raffle Product is a WordPress plugin that allows you to set a product as a raffle product. This plugin allows you to do the following:
+WooCommerce Raffle Product is a WooCommerce extension plugin that allows you to set a product as a raffle product. This plugin allows you to do the following:
 <ul>
     <li> Set a raffle date deadline </li>
     <li> Set minimum raffle sales before raffle deadline starts countdown. </li>
